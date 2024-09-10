@@ -1,0 +1,82 @@
+Data Name,Data Type,Data Description
+character_name,string,The name of each unique character
+rarity,integer,The tier or rarity of the character based on the star
+region,string,The place where each character is based from
+vision,string,The elemental power of each character
+arkhe,string,A combat and exploration mechanic related to Fontaine.
+weapon_type,string,Each unique weapon that a character uses
+model,string,The body type of each character
+constellation,string,"Constellations are sets of sequential upgrades to Characters, which are similar to their Passive Talents and increase the effectiveness of the character or add new capabilities to existing abilities. "
+birthday,string,The birthdays of each characters
+special_dish,string,The dish that is based on the favorite food of each character
+affiliation,string,The group or organization where each character is a part or a member of.
+release_date,integer,The first release date of each character
+limited,boolean,If the character can be summoned in a specific number of days or is permanently on the banner
+voice_eng,string,Voice character in english
+voice_cn,string,Voice character in chinese
+voice_jp,string,Voice character in japanese
+voice_kr,string,Voice character in korean
+ascension,string,The stat that also increase when leveling up a character
+ascension_specialty,string,Ascension specialties can be farmed all around the map
+ascension_material,string,Ascension materials are farmed through domains using resin
+ascension_boss,string,Ascension boss are bosses that have unique drops for each elements
+talent_material,string,Materials that are needed for the skills of each characters
+talent_book_1-2,string,The material that can only be obtained where the characters region is originated from.
+talent_book_2-3,string,The material that can only be obtained where the characters region is originated from.
+talent_book_3-4,string,The material that can only be obtained where the characters region is originated from.
+talent_book_4-5,string,The material that can only be obtained where the characters region is originated from.
+talent_book_5-6,string,The material that can only be obtained where the characters region is originated from.
+talent_book_6-7,string,The material that can only be obtained where the characters region is originated from.
+talent_book_7-8,string,The material that can only be obtained where the characters region is originated from.
+talent_book_8-9,string,The material that can only be obtained where the characters region is originated from.
+talent_book_9-10,string,The material that can only be obtained where the characters region is originated from.
+talent_weekly,string,It is a weekly boss that drops specific items that can only be done once a week.
+hp_90_90,integer,Stats for lvl 90/90
+atk_90_90,integer,Stats for lvl 90/90
+def_90_90,integer,Stats for lvl 90/90
+hp_80_90,integer,Stats for lvl 80/90
+atk_80_90,integer,Stats for lvl 80/90
+def_80_90,integer,Stats for lvl 80/90
+hp_80_80,integer,Stats for lvl 80/80
+atk_80_80,integer,Stats for lvl 80/80
+def_80_80,integer,Stats for lvl 80/80
+hp_70_80,integer,Stats for lvl 70/80
+atk_70_80,integer,Stats for lvl 70/80
+def_70_80,integer,Stats for lvl 70/80
+hp_70_70,integer,Stats for lvl 70/70
+atk_70_70,integer,Stats for lvl 70/70
+def_70_70,integer,Stats for lvl 70/70
+hp_60_70,integer,Stats for lvl 60/70
+atk_60_70,integer,Stats for lvl 60/70
+def_60_70,integer,Stats for lvl 60/70
+hp_60_60,integer,Stats for lvl 60/60
+atk_60_60,integer,Stats for lvl 60/60
+def_60_60,integer,Stats for lvl 60/60
+hp_50_60,integer,Stats for lvl 50/60
+atk_50_60,integer,Stats for lvl 50/60
+def_50_60,integer,Stats for lvl 50/60
+hp_50_50,integer,Stats for lvl 50/50
+atk_50_50,integer,Stats for lvl 50/50
+def_50_50,integer,Stats for lvl 50/50
+hp_40_50,integer,Stats for lvl 40/50
+atk_40_50,integer,Stats for lvl 40/50
+def_40_50,integer,Stats for lvl 40/50
+hp_40_40,integer,Stats for lvl 40/40
+atk_40_40,integer,Stats for lvl 40/40
+def_40_40,integer,Stats for lvl 40/40
+hp_20_40,integer,Stats for lvl 20/40
+atk_20_40,integer,Stats for lvl 20/40
+def_20_40,integer,Stats for lvl 20/40
+hp_20_20,integer,Stats for lvl 20/20
+atk_20_20,integer,Stats for lvl 20/20
+def_20_20,integer,Stats for lvl 20/20
+hp_1_20,integer,Stats for lvl 1/20
+atk_1_20,integer,Stats for lvl 1/20
+def_1_20,integer,Stats for lvl 1/20
+spsecial_0,integer,Unique ascending stat based on each level
+special_1,integer,Unique ascending stat based on each level
+special_2,integer,Unique ascending stat based on each level
+special_3,integer,Unique ascending stat based on each level
+special_4,integer,Unique ascending stat based on each level
+special_5,integer,Unique ascending stat based on each level
+special_6,integer,Unique ascending stat based on each level
